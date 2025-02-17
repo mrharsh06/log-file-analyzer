@@ -1,0 +1,1000 @@
+2025-02-17 14:16:28 [WARNING] System event logged: 8008
+2025-02-17 14:16:28 [INFO] System event logged: 1914
+2025-02-17 14:16:28 [INFO] System event logged: 7191
+2025-02-17 14:16:28 [WARNING] System event logged: 8247
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [INFO] System event logged: 5709
+2025-02-17 14:16:28 [INFO] System event logged: 3445
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [WARNING] System event logged: 8434
+2025-02-17 14:16:28 [WARNING] System event logged: 7588
+2025-02-17 14:16:28 [WARNING] System event logged: 5209
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [INFO] System event logged: 2641
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [INFO] System event logged: 6898
+2025-02-17 14:16:28 [WARNING] System event logged: 1659
+2025-02-17 14:16:28 [INFO] System event logged: 5018
+2025-02-17 14:16:28 [INFO] System event logged: 5229
+2025-02-17 14:16:28 [INFO] System event logged: 6749
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [INFO] System event logged: 6866
+2025-02-17 14:16:28 [INFO] System event logged: 9566
+2025-02-17 14:16:28 [INFO] System event logged: 2519
+2025-02-17 14:16:28 [WARNING] System event logged: 8278
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [WARNING] System event logged: 6561
+2025-02-17 14:16:28 [WARNING] System event logged: 5437
+2025-02-17 14:16:28 [WARNING] System event logged: 7701
+2025-02-17 14:16:28 [WARNING] System event logged: 8450
+2025-02-17 14:16:28 [INFO] System event logged: 1102
+2025-02-17 14:16:28 [INFO] System event logged: 1336
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [WARNING] System event logged: 6606
+2025-02-17 14:16:28 [WARNING] System event logged: 8890
+2025-02-17 14:16:28 [WARNING] System event logged: 4948
+2025-02-17 14:16:28 [INFO] System event logged: 7765
+2025-02-17 14:16:28 [INFO] System event logged: 3570
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [WARNING] System event logged: 1072
+2025-02-17 14:16:28 [WARNING] System event logged: 8381
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [WARNING] System event logged: 2503
+2025-02-17 14:16:28 [INFO] System event logged: 1236
+2025-02-17 14:16:28 [WARNING] System event logged: 9968
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [INFO] System event logged: 6335
+2025-02-17 14:16:28 [INFO] System event logged: 3314
+2025-02-17 14:16:28 [INFO] System event logged: 3840
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [INFO] System event logged: 1844
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [INFO] System event logged: 6269
+2025-02-17 14:16:28 [INFO] System event logged: 5525
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [WARNING] System event logged: 1862
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [WARNING] System event logged: 2720
+2025-02-17 14:16:28 [WARNING] System event logged: 6975
+2025-02-17 14:16:28 [WARNING] System event logged: 9734
+2025-02-17 14:16:28 [INFO] System event logged: 5817
+2025-02-17 14:16:28 [WARNING] System event logged: 4106
+2025-02-17 14:16:28 [WARNING] System event logged: 3277
+2025-02-17 14:16:28 [WARNING] System event logged: 9100
+2025-02-17 14:16:28 [WARNING] System event logged: 1113
+2025-02-17 14:16:28 [INFO] System event logged: 4975
+2025-02-17 14:16:28 [INFO] System event logged: 9293
+2025-02-17 14:16:28 [INFO] System event logged: 1170
+2025-02-17 14:16:28 [WARNING] System event logged: 1200
+2025-02-17 14:16:28 [INFO] System event logged: 2723
+2025-02-17 14:16:28 [INFO] System event logged: 4542
+2025-02-17 14:16:28 [WARNING] System event logged: 5472
+2025-02-17 14:16:28 [INFO] System event logged: 4915
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [INFO] System event logged: 1074
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [INFO] System event logged: 2409
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [INFO] System event logged: 7043
+2025-02-17 14:16:28 [WARNING] System event logged: 7714
+2025-02-17 14:16:28 [WARNING] System event logged: 2601
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [WARNING] System event logged: 9400
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [INFO] System event logged: 5811
+2025-02-17 14:16:28 [INFO] System event logged: 8291
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [INFO] System event logged: 7482
+2025-02-17 14:16:28 [WARNING] System event logged: 8917
+2025-02-17 14:16:28 [INFO] System event logged: 1369
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [WARNING] System event logged: 4494
+2025-02-17 14:16:28 [INFO] System event logged: 4803
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [WARNING] System event logged: 9649
+2025-02-17 14:16:28 [INFO] System event logged: 3650
+2025-02-17 14:16:28 [WARNING] System event logged: 9425
+2025-02-17 14:16:28 [WARNING] System event logged: 5661
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [WARNING] System event logged: 4709
+2025-02-17 14:16:28 [INFO] System event logged: 6830
+2025-02-17 14:16:28 [WARNING] System event logged: 1077
+2025-02-17 14:16:28 [INFO] System event logged: 4229
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [WARNING] System event logged: 1600
+2025-02-17 14:16:28 [INFO] System event logged: 1348
+2025-02-17 14:16:28 [INFO] System event logged: 7076
+2025-02-17 14:16:28 [WARNING] System event logged: 1759
+2025-02-17 14:16:28 [WARNING] System event logged: 6479
+2025-02-17 14:16:28 [INFO] System event logged: 8226
+2025-02-17 14:16:28 [INFO] System event logged: 5174
+2025-02-17 14:16:28 [INFO] System event logged: 8704
+2025-02-17 14:16:28 [WARNING] System event logged: 5703
+2025-02-17 14:16:28 [WARNING] System event logged: 9910
+2025-02-17 14:16:28 [INFO] System event logged: 1685
+2025-02-17 14:16:28 [INFO] System event logged: 1623
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [INFO] System event logged: 2453
+2025-02-17 14:16:28 [INFO] System event logged: 3087
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [WARNING] System event logged: 5920
+2025-02-17 14:16:28 [INFO] System event logged: 9259
+2025-02-17 14:16:28 [WARNING] System event logged: 4595
+2025-02-17 14:16:28 [INFO] System event logged: 5265
+2025-02-17 14:16:28 [INFO] System event logged: 7708
+2025-02-17 14:16:28 [WARNING] System event logged: 5898
+2025-02-17 14:16:28 [INFO] System event logged: 2077
+2025-02-17 14:16:28 [INFO] System event logged: 1110
+2025-02-17 14:16:28 [WARNING] System event logged: 3294
+2025-02-17 14:16:28 [WARNING] System event logged: 9739
+2025-02-17 14:16:28 [INFO] System event logged: 7464
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [WARNING] System event logged: 4999
+2025-02-17 14:16:28 [INFO] System event logged: 5441
+2025-02-17 14:16:28 [INFO] System event logged: 3614
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [WARNING] System event logged: 3538
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [INFO] System event logged: 6884
+2025-02-17 14:16:28 [INFO] System event logged: 4771
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [INFO] System event logged: 7295
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [WARNING] System event logged: 6812
+2025-02-17 14:16:28 [INFO] System event logged: 9790
+2025-02-17 14:16:28 [INFO] System event logged: 2604
+2025-02-17 14:16:28 [INFO] System event logged: 6954
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [INFO] System event logged: 4953
+2025-02-17 14:16:28 [INFO] System event logged: 7079
+2025-02-17 14:16:28 [INFO] System event logged: 9752
+2025-02-17 14:16:28 [WARNING] System event logged: 6525
+2025-02-17 14:16:28 [INFO] System event logged: 6727
+2025-02-17 14:16:28 [INFO] System event logged: 8380
+2025-02-17 14:16:28 [WARNING] System event logged: 9490
+2025-02-17 14:16:28 [WARNING] System event logged: 8421
+2025-02-17 14:16:28 [INFO] System event logged: 6574
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [WARNING] System event logged: 5448
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [WARNING] System event logged: 1494
+2025-02-17 14:16:28 [INFO] System event logged: 8876
+2025-02-17 14:16:28 [WARNING] System event logged: 4713
+2025-02-17 14:16:28 [INFO] System event logged: 9498
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [INFO] System event logged: 4968
+2025-02-17 14:16:28 [INFO] System event logged: 3603
+2025-02-17 14:16:28 [WARNING] System event logged: 4631
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [WARNING] System event logged: 7344
+2025-02-17 14:16:28 [WARNING] System event logged: 1086
+2025-02-17 14:16:28 [WARNING] System event logged: 7715
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [INFO] System event logged: 9822
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [INFO] System event logged: 7423
+2025-02-17 14:16:28 [WARNING] System event logged: 8388
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [INFO] System event logged: 4409
+2025-02-17 14:16:28 [WARNING] System event logged: 2763
+2025-02-17 14:16:28 [WARNING] System event logged: 1143
+2025-02-17 14:16:28 [WARNING] System event logged: 9866
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [WARNING] System event logged: 4047
+2025-02-17 14:16:28 [WARNING] System event logged: 1904
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [WARNING] System event logged: 9348
+2025-02-17 14:16:28 [INFO] System event logged: 5105
+2025-02-17 14:16:28 [WARNING] System event logged: 5491
+2025-02-17 14:16:28 [INFO] System event logged: 7954
+2025-02-17 14:16:28 [WARNING] System event logged: 2353
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [WARNING] System event logged: 8181
+2025-02-17 14:16:28 [INFO] System event logged: 7871
+2025-02-17 14:16:28 [INFO] System event logged: 7778
+2025-02-17 14:16:28 [INFO] System event logged: 2974
+2025-02-17 14:16:28 [WARNING] System event logged: 4774
+2025-02-17 14:16:28 [WARNING] System event logged: 1547
+2025-02-17 14:16:28 [WARNING] System event logged: 8386
+2025-02-17 14:16:28 [INFO] System event logged: 2638
+2025-02-17 14:16:28 [INFO] System event logged: 3241
+2025-02-17 14:16:28 [INFO] System event logged: 2026
+2025-02-17 14:16:28 [INFO] System event logged: 5957
+2025-02-17 14:16:28 [INFO] System event logged: 6035
+2025-02-17 14:16:28 [WARNING] System event logged: 3305
+2025-02-17 14:16:28 [INFO] System event logged: 5612
+2025-02-17 14:16:28 [WARNING] System event logged: 3159
+2025-02-17 14:16:28 [WARNING] System event logged: 4340
+2025-02-17 14:16:28 [INFO] System event logged: 6679
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [INFO] System event logged: 1195
+2025-02-17 14:16:28 [WARNING] System event logged: 2863
+2025-02-17 14:16:28 [WARNING] System event logged: 7882
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [WARNING] System event logged: 4525
+2025-02-17 14:16:28 [INFO] System event logged: 1184
+2025-02-17 14:16:28 [INFO] System event logged: 6202
+2025-02-17 14:16:28 [WARNING] System event logged: 7503
+2025-02-17 14:16:28 [WARNING] System event logged: 7580
+2025-02-17 14:16:28 [INFO] System event logged: 2614
+2025-02-17 14:16:28 [INFO] System event logged: 2826
+2025-02-17 14:16:28 [INFO] System event logged: 7746
+2025-02-17 14:16:28 [INFO] System event logged: 8330
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [WARNING] System event logged: 5498
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [WARNING] System event logged: 6054
+2025-02-17 14:16:28 [INFO] System event logged: 1078
+2025-02-17 14:16:28 [INFO] System event logged: 5406
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [INFO] System event logged: 8290
+2025-02-17 14:16:28 [WARNING] System event logged: 4689
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [INFO] System event logged: 1372
+2025-02-17 14:16:28 [INFO] System event logged: 3267
+2025-02-17 14:16:28 [WARNING] System event logged: 6312
+2025-02-17 14:16:28 [WARNING] System event logged: 2675
+2025-02-17 14:16:28 [INFO] System event logged: 3340
+2025-02-17 14:16:28 [WARNING] System event logged: 3093
+2025-02-17 14:16:28 [INFO] System event logged: 4301
+2025-02-17 14:16:28 [INFO] System event logged: 3070
+2025-02-17 14:16:28 [WARNING] System event logged: 2563
+2025-02-17 14:16:28 [WARNING] System event logged: 6750
+2025-02-17 14:16:28 [INFO] System event logged: 5305
+2025-02-17 14:16:28 [WARNING] System event logged: 4847
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [INFO] System event logged: 7633
+2025-02-17 14:16:28 [INFO] System event logged: 7357
+2025-02-17 14:16:28 [INFO] System event logged: 6297
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [INFO] System event logged: 2419
+2025-02-17 14:16:28 [WARNING] System event logged: 7611
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [INFO] System event logged: 8626
+2025-02-17 14:16:28 [WARNING] System event logged: 9141
+2025-02-17 14:16:28 [INFO] System event logged: 6934
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [WARNING] System event logged: 1658
+2025-02-17 14:16:28 [WARNING] System event logged: 2700
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [INFO] System event logged: 5935
+2025-02-17 14:16:28 [WARNING] System event logged: 7030
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [WARNING] System event logged: 6427
+2025-02-17 14:16:28 [INFO] System event logged: 6797
+2025-02-17 14:16:28 [WARNING] System event logged: 2774
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [WARNING] System event logged: 3109
+2025-02-17 14:16:28 [WARNING] System event logged: 1345
+2025-02-17 14:16:28 [INFO] System event logged: 8967
+2025-02-17 14:16:28 [INFO] System event logged: 6108
+2025-02-17 14:16:28 [WARNING] System event logged: 1528
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [INFO] System event logged: 6257
+2025-02-17 14:16:28 [INFO] System event logged: 6152
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [WARNING] System event logged: 2456
+2025-02-17 14:16:28 [INFO] System event logged: 8909
+2025-02-17 14:16:28 [INFO] System event logged: 1964
+2025-02-17 14:16:28 [WARNING] System event logged: 1758
+2025-02-17 14:16:28 [WARNING] System event logged: 1607
+2025-02-17 14:16:28 [WARNING] System event logged: 7554
+2025-02-17 14:16:28 [INFO] System event logged: 6740
+2025-02-17 14:16:28 [WARNING] System event logged: 1613
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [WARNING] System event logged: 1157
+2025-02-17 14:16:28 [WARNING] System event logged: 3048
+2025-02-17 14:16:28 [INFO] System event logged: 6098
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [INFO] System event logged: 7661
+2025-02-17 14:16:28 [INFO] System event logged: 6328
+2025-02-17 14:16:28 [WARNING] System event logged: 7834
+2025-02-17 14:16:28 [INFO] System event logged: 9976
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [WARNING] System event logged: 6366
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [INFO] System event logged: 4420
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [INFO] System event logged: 4940
+2025-02-17 14:16:28 [INFO] System event logged: 4316
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [INFO] System event logged: 2949
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [WARNING] System event logged: 5245
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [INFO] System event logged: 8986
+2025-02-17 14:16:28 [WARNING] System event logged: 7334
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [INFO] System event logged: 9574
+2025-02-17 14:16:28 [INFO] System event logged: 2733
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [WARNING] System event logged: 4648
+2025-02-17 14:16:28 [WARNING] System event logged: 2280
+2025-02-17 14:16:28 [INFO] System event logged: 6653
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [INFO] System event logged: 9957
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [INFO] System event logged: 9363
+2025-02-17 14:16:28 [WARNING] System event logged: 2835
+2025-02-17 14:16:28 [INFO] System event logged: 1288
+2025-02-17 14:16:28 [INFO] System event logged: 2951
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [WARNING] System event logged: 4997
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [WARNING] System event logged: 6929
+2025-02-17 14:16:28 [INFO] System event logged: 8575
+2025-02-17 14:16:28 [INFO] System event logged: 9139
+2025-02-17 14:16:28 [WARNING] System event logged: 2245
+2025-02-17 14:16:28 [INFO] System event logged: 2709
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [WARNING] System event logged: 1574
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [WARNING] System event logged: 5849
+2025-02-17 14:16:28 [WARNING] System event logged: 6835
+2025-02-17 14:16:28 [INFO] System event logged: 2598
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [INFO] System event logged: 6141
+2025-02-17 14:16:28 [INFO] System event logged: 4818
+2025-02-17 14:16:28 [INFO] System event logged: 4318
+2025-02-17 14:16:28 [WARNING] System event logged: 6805
+2025-02-17 14:16:28 [WARNING] System event logged: 7842
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [INFO] System event logged: 9588
+2025-02-17 14:16:28 [WARNING] System event logged: 8986
+2025-02-17 14:16:28 [WARNING] System event logged: 2297
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [INFO] System event logged: 5548
+2025-02-17 14:16:28 [WARNING] System event logged: 4130
+2025-02-17 14:16:28 [INFO] System event logged: 4810
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [WARNING] System event logged: 3009
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [WARNING] System event logged: 1370
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [INFO] System event logged: 9903
+2025-02-17 14:16:28 [WARNING] System event logged: 1546
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [WARNING] System event logged: 9091
+2025-02-17 14:16:28 [INFO] System event logged: 5879
+2025-02-17 14:16:28 [WARNING] System event logged: 2968
+2025-02-17 14:16:28 [INFO] System event logged: 6075
+2025-02-17 14:16:28 [WARNING] System event logged: 7699
+2025-02-17 14:16:28 [INFO] System event logged: 3296
+2025-02-17 14:16:28 [WARNING] System event logged: 3990
+2025-02-17 14:16:28 [WARNING] System event logged: 5743
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [INFO] System event logged: 5008
+2025-02-17 14:16:28 [WARNING] System event logged: 7102
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [INFO] System event logged: 5084
+2025-02-17 14:16:28 [INFO] System event logged: 4342
+2025-02-17 14:16:28 [INFO] System event logged: 5585
+2025-02-17 14:16:28 [WARNING] System event logged: 2005
+2025-02-17 14:16:28 [WARNING] System event logged: 1211
+2025-02-17 14:16:28 [INFO] System event logged: 7981
+2025-02-17 14:16:28 [INFO] System event logged: 5632
+2025-02-17 14:16:28 [WARNING] System event logged: 2602
+2025-02-17 14:16:28 [WARNING] System event logged: 2871
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [WARNING] System event logged: 5626
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [INFO] System event logged: 7768
+2025-02-17 14:16:28 [INFO] System event logged: 8369
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [INFO] System event logged: 6214
+2025-02-17 14:16:28 [WARNING] System event logged: 7044
+2025-02-17 14:16:28 [WARNING] System event logged: 4041
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [INFO] System event logged: 1523
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [INFO] System event logged: 2495
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [INFO] System event logged: 3608
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [INFO] System event logged: 4577
+2025-02-17 14:16:28 [INFO] System event logged: 6650
+2025-02-17 14:16:28 [WARNING] System event logged: 6318
+2025-02-17 14:16:28 [INFO] System event logged: 2019
+2025-02-17 14:16:28 [WARNING] System event logged: 9161
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [INFO] System event logged: 5043
+2025-02-17 14:16:28 [INFO] System event logged: 4867
+2025-02-17 14:16:28 [INFO] System event logged: 4000
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [WARNING] System event logged: 2481
+2025-02-17 14:16:28 [INFO] System event logged: 1991
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [INFO] System event logged: 5836
+2025-02-17 14:16:28 [INFO] System event logged: 5316
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [INFO] System event logged: 4818
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [INFO] System event logged: 1437
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [WARNING] System event logged: 5458
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [WARNING] System event logged: 2790
+2025-02-17 14:16:28 [WARNING] System event logged: 9254
+2025-02-17 14:16:28 [WARNING] System event logged: 2769
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [WARNING] System event logged: 5366
+2025-02-17 14:16:28 [INFO] System event logged: 6875
+2025-02-17 14:16:28 [WARNING] System event logged: 1558
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [INFO] System event logged: 9026
+2025-02-17 14:16:28 [WARNING] System event logged: 2520
+2025-02-17 14:16:28 [INFO] System event logged: 6795
+2025-02-17 14:16:28 [WARNING] System event logged: 3706
+2025-02-17 14:16:28 [INFO] System event logged: 6597
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [INFO] System event logged: 9615
+2025-02-17 14:16:28 [INFO] System event logged: 9005
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [INFO] System event logged: 7947
+2025-02-17 14:16:28 [WARNING] System event logged: 7654
+2025-02-17 14:16:28 [INFO] System event logged: 9680
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [INFO] System event logged: 1643
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [INFO] System event logged: 6372
+2025-02-17 14:16:28 [INFO] System event logged: 4676
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [INFO] System event logged: 2138
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [INFO] System event logged: 6841
+2025-02-17 14:16:28 [INFO] System event logged: 6192
+2025-02-17 14:16:28 [WARNING] System event logged: 8842
+2025-02-17 14:16:28 [WARNING] System event logged: 9223
+2025-02-17 14:16:28 [INFO] System event logged: 1560
+2025-02-17 14:16:28 [INFO] System event logged: 1962
+2025-02-17 14:16:28 [INFO] System event logged: 4941
+2025-02-17 14:16:28 [WARNING] System event logged: 5379
+2025-02-17 14:16:28 [WARNING] System event logged: 5267
+2025-02-17 14:16:28 [INFO] System event logged: 4090
+2025-02-17 14:16:28 [WARNING] System event logged: 4960
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [INFO] System event logged: 7985
+2025-02-17 14:16:28 [WARNING] System event logged: 9760
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [WARNING] System event logged: 3934
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [WARNING] System event logged: 4246
+2025-02-17 14:16:28 [INFO] System event logged: 4258
+2025-02-17 14:16:28 [INFO] System event logged: 2745
+2025-02-17 14:16:28 [WARNING] System event logged: 2736
+2025-02-17 14:16:28 [WARNING] System event logged: 8202
+2025-02-17 14:16:28 [WARNING] System event logged: 5454
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [INFO] System event logged: 1959
+2025-02-17 14:16:28 [WARNING] System event logged: 1212
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [INFO] System event logged: 2155
+2025-02-17 14:16:28 [INFO] System event logged: 9258
+2025-02-17 14:16:28 [WARNING] System event logged: 5512
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [WARNING] System event logged: 3900
+2025-02-17 14:16:28 [INFO] System event logged: 8845
+2025-02-17 14:16:28 [WARNING] System event logged: 8583
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [WARNING] System event logged: 9753
+2025-02-17 14:16:28 [WARNING] System event logged: 8266
+2025-02-17 14:16:28 [WARNING] System event logged: 1275
+2025-02-17 14:16:28 [INFO] System event logged: 2618
+2025-02-17 14:16:28 [WARNING] System event logged: 7171
+2025-02-17 14:16:28 [WARNING] System event logged: 7102
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [INFO] System event logged: 7931
+2025-02-17 14:16:28 [WARNING] System event logged: 4836
+2025-02-17 14:16:28 [WARNING] System event logged: 1631
+2025-02-17 14:16:28 [INFO] System event logged: 3083
+2025-02-17 14:16:28 [INFO] System event logged: 1686
+2025-02-17 14:16:28 [INFO] System event logged: 3893
+2025-02-17 14:16:28 [WARNING] System event logged: 5962
+2025-02-17 14:16:28 [WARNING] System event logged: 1207
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [WARNING] System event logged: 9009
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [WARNING] System event logged: 7980
+2025-02-17 14:16:28 [WARNING] System event logged: 1970
+2025-02-17 14:16:28 [INFO] System event logged: 4298
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [WARNING] System event logged: 2619
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [WARNING] System event logged: 8579
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [WARNING] System event logged: 5572
+2025-02-17 14:16:28 [INFO] System event logged: 5639
+2025-02-17 14:16:28 [INFO] System event logged: 5090
+2025-02-17 14:16:28 [WARNING] System event logged: 5969
+2025-02-17 14:16:28 [INFO] System event logged: 2318
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [INFO] System event logged: 2784
+2025-02-17 14:16:28 [INFO] System event logged: 1276
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [WARNING] System event logged: 8400
+2025-02-17 14:16:28 [INFO] System event logged: 6855
+2025-02-17 14:16:28 [WARNING] System event logged: 2393
+2025-02-17 14:16:28 [WARNING] System event logged: 2209
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [WARNING] System event logged: 5177
+2025-02-17 14:16:28 [WARNING] System event logged: 4826
+2025-02-17 14:16:28 [INFO] System event logged: 8572
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [INFO] System event logged: 4166
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [WARNING] System event logged: 8313
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [WARNING] System event logged: 2166
+2025-02-17 14:16:28 [INFO] System event logged: 8545
+2025-02-17 14:16:28 [WARNING] System event logged: 3088
+2025-02-17 14:16:28 [INFO] System event logged: 8126
+2025-02-17 14:16:28 [WARNING] System event logged: 2639
+2025-02-17 14:16:28 [INFO] System event logged: 8758
+2025-02-17 14:16:28 [WARNING] System event logged: 4979
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [INFO] System event logged: 2842
+2025-02-17 14:16:28 [INFO] System event logged: 4915
+2025-02-17 14:16:28 [INFO] System event logged: 5175
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [WARNING] System event logged: 2146
+2025-02-17 14:16:28 [INFO] System event logged: 3995
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [WARNING] System event logged: 1092
+2025-02-17 14:16:28 [WARNING] System event logged: 3247
+2025-02-17 14:16:28 [INFO] System event logged: 6730
+2025-02-17 14:16:28 [INFO] System event logged: 1400
+2025-02-17 14:16:28 [WARNING] System event logged: 3663
+2025-02-17 14:16:28 [INFO] System event logged: 7442
+2025-02-17 14:16:28 [INFO] System event logged: 4552
+2025-02-17 14:16:28 [WARNING] System event logged: 5394
+2025-02-17 14:16:28 [WARNING] System event logged: 9018
+2025-02-17 14:16:28 [WARNING] System event logged: 5598
+2025-02-17 14:16:28 [WARNING] System event logged: 6236
+2025-02-17 14:16:28 [INFO] System event logged: 8973
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [WARNING] System event logged: 8483
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [INFO] System event logged: 9174
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [INFO] System event logged: 3115
+2025-02-17 14:16:28 [WARNING] System event logged: 1923
+2025-02-17 14:16:28 [WARNING] System event logged: 6001
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [WARNING] System event logged: 2927
+2025-02-17 14:16:28 [INFO] System event logged: 6986
+2025-02-17 14:16:28 [INFO] System event logged: 1238
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [INFO] System event logged: 6238
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [WARNING] System event logged: 7719
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [INFO] System event logged: 1528
+2025-02-17 14:16:28 [WARNING] System event logged: 6786
+2025-02-17 14:16:28 [WARNING] System event logged: 6975
+2025-02-17 14:16:28 [INFO] System event logged: 8474
+2025-02-17 14:16:28 [WARNING] System event logged: 6109
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [WARNING] System event logged: 8972
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [INFO] System event logged: 9871
+2025-02-17 14:16:28 [INFO] System event logged: 2110
+2025-02-17 14:16:28 [WARNING] System event logged: 9449
+2025-02-17 14:16:28 [INFO] System event logged: 3278
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [WARNING] System event logged: 6622
+2025-02-17 14:16:28 [INFO] System event logged: 5286
+2025-02-17 14:16:28 [WARNING] System event logged: 5013
+2025-02-17 14:16:28 [INFO] System event logged: 3338
+2025-02-17 14:16:28 [INFO] System event logged: 8138
+2025-02-17 14:16:28 [WARNING] System event logged: 1700
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [WARNING] System event logged: 3695
+2025-02-17 14:16:28 [WARNING] System event logged: 3617
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [INFO] System event logged: 8816
+2025-02-17 14:16:28 [INFO] System event logged: 5101
+2025-02-17 14:16:28 [INFO] System event logged: 2864
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [WARNING] System event logged: 4582
+2025-02-17 14:16:28 [WARNING] System event logged: 2577
+2025-02-17 14:16:28 [WARNING] System event logged: 2647
+2025-02-17 14:16:28 [INFO] System event logged: 9180
+2025-02-17 14:16:28 [WARNING] System event logged: 9543
+2025-02-17 14:16:28 [WARNING] System event logged: 5124
+2025-02-17 14:16:28 [WARNING] System event logged: 7942
+2025-02-17 14:16:28 [INFO] System event logged: 3483
+2025-02-17 14:16:28 [WARNING] System event logged: 5277
+2025-02-17 14:16:28 [WARNING] System event logged: 2554
+2025-02-17 14:16:28 [INFO] System event logged: 1077
+2025-02-17 14:16:28 [INFO] System event logged: 5116
+2025-02-17 14:16:28 [WARNING] System event logged: 5361
+2025-02-17 14:16:28 [WARNING] System event logged: 8769
+2025-02-17 14:16:28 [INFO] System event logged: 7339
+2025-02-17 14:16:28 [INFO] System event logged: 8418
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [WARNING] System event logged: 3924
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [INFO] System event logged: 2415
+2025-02-17 14:16:28 [INFO] System event logged: 6403
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [WARNING] System event logged: 1355
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [INFO] System event logged: 7352
+2025-02-17 14:16:28 [WARNING] System event logged: 1756
+2025-02-17 14:16:28 [INFO] System event logged: 5843
+2025-02-17 14:16:28 [INFO] System event logged: 5166
+2025-02-17 14:16:28 [WARNING] System event logged: 9278
+2025-02-17 14:16:28 [WARNING] System event logged: 9427
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [INFO] System event logged: 2482
+2025-02-17 14:16:28 [INFO] System event logged: 5481
+2025-02-17 14:16:28 [WARNING] System event logged: 9250
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [INFO] System event logged: 1633
+2025-02-17 14:16:28 [WARNING] System event logged: 8802
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [WARNING] System event logged: 1666
+2025-02-17 14:16:28 [WARNING] System event logged: 1359
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [WARNING] System event logged: 3235
+2025-02-17 14:16:28 [INFO] System event logged: 5810
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [INFO] System event logged: 9141
+2025-02-17 14:16:28 [INFO] System event logged: 9982
+2025-02-17 14:16:28 [WARNING] System event logged: 6462
+2025-02-17 14:16:28 [INFO] System event logged: 1418
+2025-02-17 14:16:28 [INFO] System event logged: 8039
+2025-02-17 14:16:28 [WARNING] System event logged: 7340
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [WARNING] System event logged: 6174
+2025-02-17 14:16:28 [WARNING] System event logged: 3396
+2025-02-17 14:16:28 [WARNING] System event logged: 8796
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [WARNING] System event logged: 1979
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [INFO] System event logged: 1105
+2025-02-17 14:16:28 [INFO] System event logged: 9969
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [WARNING] System event logged: 3897
+2025-02-17 14:16:28 [WARNING] System event logged: 9580
+2025-02-17 14:16:28 [INFO] System event logged: 3026
+2025-02-17 14:16:28 [INFO] System event logged: 3443
+2025-02-17 14:16:28 [INFO] System event logged: 8738
+2025-02-17 14:16:28 [INFO] System event logged: 9305
+2025-02-17 14:16:28 [WARNING] System event logged: 2925
+2025-02-17 14:16:28 [WARNING] System event logged: 4062
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [INFO] System event logged: 8754
+2025-02-17 14:16:28 [WARNING] System event logged: 3672
+2025-02-17 14:16:28 [WARNING] System event logged: 8749
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [WARNING] System event logged: 1717
+2025-02-17 14:16:28 [INFO] System event logged: 7747
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [INFO] System event logged: 4874
+2025-02-17 14:16:28 [INFO] System event logged: 9062
+2025-02-17 14:16:28 [INFO] System event logged: 9482
+2025-02-17 14:16:28 [WARNING] System event logged: 5804
+2025-02-17 14:16:28 [INFO] System event logged: 3834
+2025-02-17 14:16:28 [INFO] System event logged: 9147
+2025-02-17 14:16:28 [INFO] System event logged: 7779
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [INFO] System event logged: 7825
+2025-02-17 14:16:28 [INFO] System event logged: 6698
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [WARNING] System event logged: 2610
+2025-02-17 14:16:28 [INFO] System event logged: 1880
+2025-02-17 14:16:28 [WARNING] System event logged: 3745
+2025-02-17 14:16:28 [INFO] System event logged: 7777
+2025-02-17 14:16:28 [INFO] System event logged: 8737
+2025-02-17 14:16:28 [WARNING] System event logged: 4866
+2025-02-17 14:16:28 [INFO] System event logged: 4888
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [INFO] System event logged: 7189
+2025-02-17 14:16:28 [WARNING] System event logged: 2482
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [INFO] System event logged: 3106
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [INFO] System event logged: 2786
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [WARNING] System event logged: 7502
+2025-02-17 14:16:28 [WARNING] System event logged: 1027
+2025-02-17 14:16:28 [INFO] System event logged: 6664
+2025-02-17 14:16:28 [WARNING] System event logged: 8569
+2025-02-17 14:16:28 [INFO] System event logged: 8722
+2025-02-17 14:16:28 [WARNING] System event logged: 6041
+2025-02-17 14:16:28 [WARNING] System event logged: 2441
+2025-02-17 14:16:28 [INFO] System event logged: 3799
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [WARNING] System event logged: 1373
+2025-02-17 14:16:28 [INFO] System event logged: 7825
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [INFO] System event logged: 9903
+2025-02-17 14:16:28 [WARNING] System event logged: 5831
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [WARNING] System event logged: 8986
+2025-02-17 14:16:28 [WARNING] System event logged: 4157
+2025-02-17 14:16:28 [WARNING] System event logged: 2048
+2025-02-17 14:16:28 [INFO] System event logged: 1681
+2025-02-17 14:16:28 [INFO] System event logged: 1061
+2025-02-17 14:16:28 [WARNING] System event logged: 7049
+2025-02-17 14:16:28 [WARNING] System event logged: 9028
+2025-02-17 14:16:28 [WARNING] System event logged: 8811
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [INFO] System event logged: 7637
+2025-02-17 14:16:28 [WARNING] System event logged: 9516
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [INFO] System event logged: 3110
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [INFO] System event logged: 8385
+2025-02-17 14:16:28 [INFO] System event logged: 2016
+2025-02-17 14:16:28 [WARNING] System event logged: 9785
+2025-02-17 14:16:28 [INFO] System event logged: 9924
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [WARNING] System event logged: 5169
+2025-02-17 14:16:28 [WARNING] System event logged: 9153
+2025-02-17 14:16:28 [WARNING] System event logged: 7977
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [INFO] System event logged: 8467
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [INFO] System event logged: 7600
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [INFO] System event logged: 3479
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [INFO] System event logged: 5288
+2025-02-17 14:16:28 [WARNING] System event logged: 4361
+2025-02-17 14:16:28 [WARNING] System event logged: 4318
+2025-02-17 14:16:28 [INFO] System event logged: 5677
+2025-02-17 14:16:28 [WARNING] System event logged: 2321
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [INFO] System event logged: 7829
+2025-02-17 14:16:28 [INFO] System event logged: 8314
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [WARNING] System event logged: 7225
+2025-02-17 14:16:28 [INFO] System event logged: 3494
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [WARNING] System event logged: 9152
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [WARNING] System event logged: 5778
+2025-02-17 14:16:28 [INFO] System event logged: 8639
+2025-02-17 14:16:28 [INFO] System event logged: 8521
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [WARNING] System event logged: 7113
+2025-02-17 14:16:28 [INFO] System event logged: 2636
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [WARNING] System event logged: 2316
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [INFO] System event logged: 7090
+2025-02-17 14:16:28 [WARNING] System event logged: 9844
+2025-02-17 14:16:28 [WARNING] System event logged: 6325
+2025-02-17 14:16:28 [WARNING] System event logged: 4260
+2025-02-17 14:16:28 [INFO] System event logged: 7035
+2025-02-17 14:16:28 [WARNING] System event logged: 5881
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [WARNING] System event logged: 4036
+2025-02-17 14:16:28 [INFO] System event logged: 9064
+2025-02-17 14:16:28 [WARNING] System event logged: 7028
+2025-02-17 14:16:28 [WARNING] System event logged: 2910
+2025-02-17 14:16:28 [WARNING] System event logged: 2011
+2025-02-17 14:16:28 [WARNING] System event logged: 5888
+2025-02-17 14:16:28 [WARNING] System event logged: 9052
+2025-02-17 14:16:28 [WARNING] System event logged: 5910
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [WARNING] System event logged: 6570
+2025-02-17 14:16:28 [INFO] System event logged: 4918
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [INFO] System event logged: 6333
+2025-02-17 14:16:28 [WARNING] System event logged: 8214
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [INFO] System event logged: 5445
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [INFO] System event logged: 5268
+2025-02-17 14:16:28 [WARNING] System event logged: 2580
+2025-02-17 14:16:28 [INFO] System event logged: 4551
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [INFO] System event logged: 4067
+2025-02-17 14:16:28 [WARNING] System event logged: 4381
+2025-02-17 14:16:28 [INFO] System event logged: 7762
+2025-02-17 14:16:28 [WARNING] System event logged: 1181
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [WARNING] System event logged: 4884
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [WARNING] System event logged: 8788
+2025-02-17 14:16:28 [INFO] System event logged: 5340
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [INFO] System event logged: 8120
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [WARNING] System event logged: 4057
+2025-02-17 14:16:28 [WARNING] System event logged: 4233
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [WARNING] System event logged: 8817
+2025-02-17 14:16:28 [INFO] System event logged: 8130
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [WARNING] System event logged: 9671
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [WARNING] System event logged: 2686
+2025-02-17 14:16:28 [WARNING] System event logged: 6523
+2025-02-17 14:16:28 [INFO] System event logged: 2373
+2025-02-17 14:16:28 [WARNING] System event logged: 4073
+2025-02-17 14:16:28 [INFO] System event logged: 9666
+2025-02-17 14:16:28 [INFO] System event logged: 4309
+2025-02-17 14:16:28 [INFO] System event logged: 3177
+2025-02-17 14:16:28 [INFO] System event logged: 6271
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [ERROR] Unexpected null pointer exception
+2025-02-17 14:16:28 [ERROR] Permission denied for resource access
+2025-02-17 14:16:28 [WARNING] System event logged: 8523
+2025-02-17 14:16:28 [INFO] System event logged: 6534
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [WARNING] System event logged: 3160
+2025-02-17 14:16:28 [WARNING] System event logged: 6551
+2025-02-17 14:16:28 [INFO] System event logged: 2099
+2025-02-17 14:16:28 [WARNING] System event logged: 9110
+2025-02-17 14:16:28 [INFO] System event logged: 6308
+2025-02-17 14:16:28 [INFO] System event logged: 4817
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [WARNING] System event logged: 2974
+2025-02-17 14:16:28 [INFO] System event logged: 7544
+2025-02-17 14:16:28 [WARNING] System event logged: 8308
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [INFO] System event logged: 9910
+2025-02-17 14:16:28 [WARNING] System event logged: 4991
+2025-02-17 14:16:28 [WARNING] System event logged: 9164
+2025-02-17 14:16:28 [INFO] System event logged: 7672
+2025-02-17 14:16:28 [INFO] System event logged: 7863
+2025-02-17 14:16:28 [INFO] System event logged: 3584
+2025-02-17 14:16:28 [INFO] System event logged: 4133
+2025-02-17 14:16:28 [INFO] System event logged: 5957
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [ERROR] Memory allocation error
+2025-02-17 14:16:28 [INFO] System event logged: 5277
+2025-02-17 14:16:28 [INFO] System event logged: 2299
+2025-02-17 14:16:28 [INFO] System event logged: 8366
+2025-02-17 14:16:28 [INFO] System event logged: 3024
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [INFO] System event logged: 6728
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [INFO] System event logged: 5966
+2025-02-17 14:16:28 [INFO] System event logged: 5157
+2025-02-17 14:16:28 [INFO] System event logged: 9310
+2025-02-17 14:16:28 [INFO] System event logged: 3845
+2025-02-17 14:16:28 [WARNING] System event logged: 5965
+2025-02-17 14:16:28 [INFO] System event logged: 5518
+2025-02-17 14:16:28 [WARNING] System event logged: 3696
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [WARNING] System event logged: 2270
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [WARNING] System event logged: 2395
+2025-02-17 14:16:28 [INFO] System event logged: 3276
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [WARNING] System event logged: 6365
+2025-02-17 14:16:28 [WARNING] System event logged: 4618
+2025-02-17 14:16:28 [INFO] System event logged: 2220
+2025-02-17 14:16:28 [WARNING] System event logged: 3422
+2025-02-17 14:16:28 [WARNING] System event logged: 2155
+2025-02-17 14:16:28 [INFO] System event logged: 1581
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [WARNING] System event logged: 8918
+2025-02-17 14:16:28 [WARNING] System event logged: 9537
+2025-02-17 14:16:28 [WARNING] System event logged: 2652
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [WARNING] System event logged: 2268
+2025-02-17 14:16:28 [ERROR] API request failed with status 500
+2025-02-17 14:16:28 [ERROR] File not found: /var/log/app.log
+2025-02-17 14:16:28 [ERROR] Disk space low on /dev/sda1
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [ERROR] User authentication failed
+2025-02-17 14:16:28 [ERROR] Database connection timeout
+2025-02-17 14:16:28 [ERROR] Service XYZ crashed unexpectedly
+2025-02-17 14:16:28 [INFO] System event logged: 5414
+2025-02-17 14:16:28 [INFO] System event logged: 2721
+2025-02-17 14:16:28 [WARNING] System event logged: 8156
+2025-02-17 14:16:28 [INFO] System event logged: 6294
+2025-02-17 14:16:28 [ERROR] Connection reset by peer
+2025-02-17 14:16:28 [INFO] System event logged: 6808
+2025-02-17 14:16:28 [INFO] System event logged: 5135
+2025-02-17 14:16:28 [INFO] System event logged: 7363
+2025-02-17 14:16:28 [INFO] System event logged: 9117
+2025-02-17 14:16:28 [WARNING] System event logged: 9907
+2025-02-17 14:16:28 [WARNING] System event logged: 5829
+2025-02-17 14:16:28 [INFO] System event logged: 7817
+2025-02-17 14:16:28 [INFO] System event logged: 7414
